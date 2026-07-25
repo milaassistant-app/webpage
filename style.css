@@ -24,7 +24,7 @@ body {
 
 #first {
     position: relative;
-    height: 900px;
+    height: 1150px;
     width: 100%;
     overflow: hidden;
     background-image: url('back1_new.png');
@@ -355,7 +355,7 @@ header {
 .second {
     position: relative;
     width: 100vw;
-    height: 850px;
+    height: 950px;
     background-color: #171717;
 }
 
