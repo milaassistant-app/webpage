@@ -98,6 +98,11 @@ if (footer_telegram) {
         window.location.href = 'https://t.me/mila_assistant12345'
     };
 }
+const footer_tiktok = document.getElementById('footer_tiktok');
+if (footer_tiktok) {
+    footer_tiktok.onclick = function () {
+        window.location.href = 'https://www.tiktok.com/@mila.assistant?_r=1&_t=ZN-98KhyZmBE4U'
+    };
 
 const footer_github = document.getElementById('footer_github');
 if (footer_github) {
