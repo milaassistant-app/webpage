@@ -1,10 +1,10 @@
 const btn_1 = document.getElementById('btn_1');
 btn_1.onclick = function () {
-    window.location.href = 'https://github.com/website7777/mila/releases'
+    window.location.href = 'https://github.com/milaassistant-app/MilaAssistant/releases'
 };
 const btn_2 = document.getElementById('btn_2');
 btn_2.onclick = function () {
-    window.location.href = 'https://github.com/website7777/mila/releases'
+    window.location.href = 'https://github.com/milaassistant-app/MilaAssistant/releases'
 };
 const btn_3 = document.getElementById('btn_3');
 btn_3.onclick = function () {
@@ -12,7 +12,7 @@ btn_3.onclick = function () {
 };
 const btn_4 = document.getElementById('btn_4');
 btn_4.onclick = function () {
-    window.location.href = 'https://github.com/website7777/mila/releases'
+    window.location.href = 'https://github.com/milaassistant-app/MilaAssistant/releases'
 };
 const h2_11 = document.getElementById('h2_11');
 h2_11.onclick = function () {
@@ -53,7 +53,7 @@ FAQ.onclick = function () {
 const androidBtnDownload = document.getElementById('android_btn_download');
 if (androidBtnDownload) {
     androidBtnDownload.onclick = function () {
-        window.location.href = 'https://github.com/website7777/mila/releases'
+        window.location.href = 'https://github.com/milaassistant-app/MilaAssistant/releases'
     };
 }
 
@@ -102,7 +102,7 @@ if (footer_telegram) {
 const footer_github = document.getElementById('footer_github');
 if (footer_github) {
     footer_github.onclick = function () {
-        window.location.href = 'https://github.com/website7777/mila/releases'
+        window.location.href = 'https://github.com/milaassistant-app/MilaAssistant/releases'
     };
 }
 
