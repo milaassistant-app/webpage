@@ -103,7 +103,7 @@ if (footer_tiktok) {
     footer_tiktok.onclick = function () {
         window.location.href = 'https://www.tiktok.com/@mila.assistant?_r=1&_t=ZN-98KhyZmBE4U'
     };
-
+}
 const footer_github = document.getElementById('footer_github');
 if (footer_github) {
     footer_github.onclick = function () {
