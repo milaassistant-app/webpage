@@ -1463,8 +1463,11 @@ footer p{
 #footer_telegram{
     left: 40.5%;
 }
-#footer_support{
+#footer_tiktok{
     left: 51.6%;
+}
+#footer_support{
+    left: 75%;
 }
 #btn_4{
     position: absolute;
