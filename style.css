@@ -24,8 +24,7 @@ body {
 
 #first {
     position: relative;
-    height: 100vh;
-    min-height: 100vh;
+    height: 800px;
     width: 100%;
     overflow: hidden;
     background-image: url('back1_new.png');
@@ -356,7 +355,7 @@ header {
 .second {
     position: relative;
     width: 100vw;
-    height: 100vh;
+    height: 734px;
     background-color: #171717;
 }
 
@@ -533,7 +532,7 @@ header {
 .third {
     position: relative;
     width: 100vw;
-    height: 100vh;
+    height: 666px;
     background-color: #0A0A0A;
 }
 
@@ -757,7 +756,7 @@ header {
 .fourth {
     position: relative;
     width: 100vw;
-    height: 100vh;
+    height: 731px;
     background-color: #171717;
 }
 #h3_8{
@@ -936,7 +935,7 @@ padding-top:12%;
 .fivth {
     position: relative;
     width: 100vw;
-    height: 100vh;
+    height: 378px;
     background-color: #0A0B0B;
 }
 #img2{
@@ -1022,7 +1021,7 @@ padding-top:12%;
 .sixth{
     position: relative;
     width: 100vw;
-   height: 73%;
+   	height: 636px;
     background-color: #0A0A0A;
 }
 #h1_6{
@@ -1231,7 +1230,7 @@ padding-top:12%;
 .seventh{
     position: relative;
     width: 100vw;
-    height: 50%;
+    height: 435px;
     background-color: #171717;
 }
 #h1_7{
@@ -1328,7 +1327,7 @@ padding-top:12%;
 .eighth{
     position: relative;
     width: 100vw;
-    height: 44%;
+    height: 385px;
     background-color: #0A0A0A;
 }
 #h1_8{
@@ -1376,7 +1375,7 @@ padding-top:12%;
 .ninth{
     position: relative;
     width: 100wh;
-    height: 100vh;
+    height: 677px;
     background-color: #171717;
 }
 #h1_9{
